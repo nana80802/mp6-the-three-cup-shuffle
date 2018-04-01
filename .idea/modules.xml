@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mp6-the-cup/mp6-the-cup.iml" filepath="$PROJECT_DIR$/mp6-the-cup/mp6-the-cup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp6-the-three-cup-shuffle.iml" filepath="$PROJECT_DIR$/mp6-the-three-cup-shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp6-the-trickster/mp6-the-trickster.iml" filepath="$PROJECT_DIR$/mp6-the-trickster/mp6-the-trickster.iml" />
+    </modules>
+  </component>
+</project>
